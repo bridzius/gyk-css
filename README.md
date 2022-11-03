@@ -11,9 +11,11 @@ Flow:
 4. Targeting elements via selectors.
   1. Tags/Ids/Classes for targeting.
   2. Child/Sibling/Combined selectors.
-  3. Priority of CSS.
+  3. Priority and Specificity of CSS.
 5. Styling vs Layouts.
   1. Box Model.
   2. Flex and Grid.
   3. Styling, Animations and Transitions.
 6. Preprocessors (?)
+  1. SCSS
+
