@@ -1,0 +1,17 @@
+h1 {
+    background: red;
+}
+main > h1 {
+    background: pink;
+}
+#heading {
+    background: yellow;
+}
+.heading {
+    background: orange;
+}
+
+/* Additional styles */
+p {
+    text-indent: 10px;
+}
